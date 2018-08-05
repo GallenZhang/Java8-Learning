@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 /**
  * @author : zhangxq
  * @date : 2018/8/3
- * @description :
+ * @description :流的基本操作
  */
 public class StreamBasic {
     public static void main(String[] args) {
